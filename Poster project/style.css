@@ -1,0 +1,28 @@
+body {
+  background: black;
+  margin-top: 15%;
+}
+
+.container {
+  width: 50%;
+  margin-left: 25%;
+  border: 1px solid white;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+p {
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
